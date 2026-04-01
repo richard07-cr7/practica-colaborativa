@@ -1,8 +1,7 @@
 Proyecto: Plataforma Web de Gestión de Transporte Urbano Inteligente
 
 Descripción:
-Este proyecto consiste en el desarrollo de una aplicación web que permita a los usuarios consultar en tiempo real las rutas, horarios y ubicación de los vehículos de transporte urbano. 
-El sistema utilizará tecnologías web (HTML, CSS, JavaScript) y podrá integrarse con servicios de geolocalización para mejorar la experiencia del usuario.
+Se desarrollará una aplicación web basada en un sistema de niveles donde los estudiantes podrán avanzar progresivamente al completar actividades o retos académicos. 
+A medida que superen cada nivel, obtendrán recompensas en forma de puntos, incentivos o logros.
 
-Además, permitirá a los administradores gestionar rutas, conductores y unidades de transporte, optimizando la organización del servicio. 
-El objetivo es mejorar la movilidad urbana, reducir tiempos de espera y brindar información precisa a los usuarios.
+El objetivo del proyecto es motivar el aprendizaje mediante técnicas de gamificación, fomentando la participación activa, la constancia y el progreso académico de los estudiantes de manera interactiva y dinámica.
