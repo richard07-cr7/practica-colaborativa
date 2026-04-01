@@ -1,3 +1,3 @@
-Estudiante 2 pone: # Proyecto: Aplicacion de Reservas
+Estudiante 2 pone: # Proyecto: Aplicacion de Reservasxddd
 ## Curso: Herramientas de Desarrollo
 ## Descripcion: Haremos un juego de niveles que va a generar recompensa para los estudiantes mediante puntos.
