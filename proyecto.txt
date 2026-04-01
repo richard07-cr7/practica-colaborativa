@@ -1,0 +1,8 @@
+Proyecto: Plataforma Web de Gestión de Transporte Urbano Inteligente
+
+Descripción:
+Este proyecto consiste en el desarrollo de una aplicación web que permita a los usuarios consultar en tiempo real las rutas, horarios y ubicación de los vehículos de transporte urbano. 
+El sistema utilizará tecnologías web (HTML, CSS, JavaScript) y podrá integrarse con servicios de geolocalización para mejorar la experiencia del usuario.
+
+Además, permitirá a los administradores gestionar rutas, conductores y unidades de transporte, optimizando la organización del servicio. 
+El objetivo es mejorar la movilidad urbana, reducir tiempos de espera y brindar información precisa a los usuarios.
